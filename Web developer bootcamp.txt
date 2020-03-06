@@ -1,0 +1,35 @@
+Share code :
+
+GITHUB
+Mickey10231187$
+
+MDN web doc :
+https://developer.mozilla.org/en-US/
+https://developer.mozilla.org/en-US/docs/Web
+
+Social development environment for front-end designers and developers.
+https://codepen.io/
+
+HTML/CSS/Javascript editor
+https://jsbin.com/?html,output
+
+
+Share code, notes, and snippets :
+https://gist.github.com/discover
+
+
+GoormIDE
+
+
+Gyazo app to instantly screenshot, share, and bookmark.	
+
+
+YOUTUBE CHANNEL :
+https://www.youtube.com/c/ColtSteeleCode
+https://www.youtube.com/c/ianschoonover
+
+Video JS intéressante :
+https://www.youtube.com/watch?v=fypRl4COBAc&feature=youtu.be
+
+Online Community :
+https://discordapp.com/invite/CUga7jX
