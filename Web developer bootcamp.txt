@@ -32,3 +32,30 @@ https://www.youtube.com/watch?v=fypRl4COBAc&feature=youtu.be
 
 Online Community :
 https://discordapp.com/invite/CUga7jX
+
+1.Intro to the course (cf sylabus)
+Chapter 1 to 18 Frontend
+Chapter 18 to the end backend
+
+Directory to the courses : https://drive.google.com/drive/folders/0B7qHXcyKO8LKWGdpcXQtM2liUjQ
+
+
+VIDEOS :
+How internet works : https://www.youtube.com/watch?v=Gfoc3Cxgnpk
+
+HTML : Nouns of a webpage
+CSS : Adjective of a webpage (style of the page)
+Javascript : actions, verbs of a webpage (logics and interactivity to a page)
+
+cf : https://codepen.io/ludoviclaurence/pen/BaNmjMj
+
+
+HTML : Hypertext Markup Language
+HTML Standard :
+https://html.spec.whatwg.org/multipage/indices.html#element-content-categories
+
+link MDN (Mozilla Developer Network): https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
+
+What are browser developer tools :
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools
+
