@@ -1,7 +1,6 @@
 Share code :
 
 GITHUB
-Mickey10231187$
 
 MDN web doc :
 https://developer.mozilla.org/en-US/
