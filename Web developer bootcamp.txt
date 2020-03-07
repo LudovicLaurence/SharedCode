@@ -59,3 +59,63 @@ link MDN (Mozilla Developer Network): https://developer.mozilla.org/en-US/docs/L
 What are browser developer tools :
 https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools
 
+Metadata goes in the head of the HTML file
+Content goes in the body of the HTML file
+
+HTML Contents reference : https://developer.mozilla.org/fr/docs/Web/HTML/Element
+
+CSS : Cascading style sheet
+http://www.csszengarden.com/tr/francais/
+general rule 
+selector {
+	property: value;
+	anotherProperty: value;
+}
+
+Without CSS file, we have 2 possibilities :
+Style can be put inline in each element put <Li style="color: purple;">
+or
+We can have Style tag <style> </style> must be put in the head of HTML file
+
+
+Link tag used to refer to a CSS file when the style is defined in an external file
+
+Color in CSS
+https://colours.neilorangepeel.com/
+https://www.w3schools.com/colors/colors_picker.asp
+
+color : 
+name of a color
+#XXXXXX (X hexadecimal)
+rgb(X,X,X) (X between 0,255)
+rgba(X,X,X,Y) (Y represent the transparency range 0.0 to 1.0)
+
+background (an image can be defined as background thanks to url property).
+
+border has 3 parts : width/style/color
+Element selector to select all the elements of the same type
+To identify a particular element in the html, the id property can be used.
+In the CSS file, the #id can be defined
+To identify a group element in the html, the class property can be used.
+In the CSS file, the .class can be defined
+
+text.decoration in CSS line-through
+
+30 selectors that you must memorize :
+https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
+
+
+
+
+
+
+
+
+
+Autres cours :
+Développeurs d'applications mobiles XAMARIN
+
+
+
+
+
