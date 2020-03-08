@@ -101,9 +101,22 @@ In the CSS file, the .class can be defined
 
 text.decoration in CSS line-through
 
+Use * to select everything in the page 
+*{}
 30 selectors that you must memorize :
 https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
 
+Utilisation du Lorem Ipsum : faux texte par défaut :
+https://theultralinx.com/2013/08/10-hilarious-lorem-ipsum-generators-web-designers/
+
+CSS font stack : https://www.cssfontstack.com/
+https://fonts.google.com/
+/*Font family*/
+/*Font size*/
+/*Font weight*/
+/*Line-height*/
+/*Text-align*/
+/*text-decoration*/
 
 
 
